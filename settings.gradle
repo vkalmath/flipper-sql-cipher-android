@@ -1,0 +1,2 @@
+rootProject.name='FlipperApp'
+include ':app', ':flippersqlcipher'
